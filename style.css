@@ -1,0 +1,93 @@
+*{
+    background-color: hsl(185, 75%, 39%);
+
+
+
+} 
+
+
+body {
+    font-family: "sans-serif",  Arial, Helvetica;
+    font-size: 14px;
+    color: black;
+    
+
+}
+img{
+    width: 100px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    color: white;
+    border: 2px solid white;
+    margin-top: 100px;
+ margin-bottom: 8px;
+    margin-left: 110px;
+    
+}
+.card{
+    background-image: url(./bg-pattern-card.svg);
+    height: 150px;
+    border-start-start-radius: 16px;
+    border-top-right-radius: 16px;
+}
+    
+.profile{
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 100px;
+    width: 320px;
+    height: 400px;
+    margin-right: 50px;
+    display: block;
+    border-radius: 16px;
+    background-image: none;
+    
+
+    
+}
+.text{
+    margin-top: 70px;
+    background-color: white;
+    padding-bottom: 8px;
+    text-align: center;
+    background-image: none;
+}
+
+b{
+    background-color: white;
+}
+ .num {
+    font-weight: bold;
+    font-size: 18px;
+    background-color: white;
+    
+    
+}
+
+#location{
+    margin: 16px;
+    background-color: white;
+}
+.likes{
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid hsl(0, 0%, 59%);
+    margin-top: 30px;
+    padding: 20px;
+    padding-bottom: 0%;
+    background-color: white;  
+    background-image: none;
+}
+#subtitle{
+background-color: white;
+font-size: small;
+font-weight: 400;
+margin-bottom: 0%;
+}
+
+h3{
+    background-color: white;
+    font-weight: lighter;
+
+}
+
